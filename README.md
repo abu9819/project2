@@ -1,3 +1,3 @@
 # New Project
-This project was created from local systemclear
-created by Abubokkor Siddik
+This project was created from local system.
+ Created by Abubokkor Siddik.
